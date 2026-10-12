@@ -1,0 +1,8 @@
+# Satir sonlari: bash scriptleri LF, Windows batch dosyasi CRLF kalmali
+*.py text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+.gitignore text eol=lf
+.gitattributes text eol=lf
